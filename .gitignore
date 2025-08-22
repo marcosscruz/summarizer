@@ -1,2 +1,12 @@
 input/
 output/
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+.idea/
+.vscode/
+*.log
+.DS_Store
+Thumbs.db
